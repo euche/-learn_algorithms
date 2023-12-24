@@ -12,12 +12,15 @@ AVLtree/TrieNode.java
  AVLtree.TrieNode
 String/Checkcommoncharacterstwostrings.java
  String.Checkcommoncharacterstwostrings
-Recursion/DecimalToBinary.java
- Recursion.DecimalToBinary
+Graph/PrimAlgo.java
+ Graph.PrimAlgo
+BinaryTree/SumofBinaryTreeValue.java
+ BinaryTree.SumofBinaryTreeValue
+ BinaryTree.SumofBinaryTreeValue$TreeNode
 DC/LongestPalindromS.java
  DC.LongestPalindromS
-DP/HouseRobber.java
- DP.HouseRobber
+Graph/GraphMain.java
+ Graph.GraphMain
 Binary/MinPartitions.java
  Binary.MinPartitions
 Graph/ALGraph.java
@@ -26,8 +29,14 @@ String/CountSntences.java
  String.CountSntences
 Linkedlist/SinglyLinkedList.java
  Linkedlist.SinglyLinkedList
+BinaryTree/BSTwithMinimumheight.java
+ BinaryTree.BSTwithMinimumheight
+String/WordBreak.java
+ String.WordBreak
 Linkedlist/Linkedlistexample.java
  Linkedlist.Linkedlistexample
+Numberarray/Twosum.java
+ Numberarray.Twosum
 String/DefangIPAddress.java
  String.DefangIPAddress
 Linkedlist/Node.java
@@ -44,16 +53,20 @@ Numberarray/Productofarray.java
  Numberarray.Productofarray
 String/Validanangram.java
  String.Validanangram
-TwopointerAlgo/twoSum.java
- TwopointerAlgo.twoSum
 DC/ConvertString.java
  DC.ConvertString
 DC/LongestCS.java
  DC.LongestCS
+Numberarray/besttimetosellstock.java
+ Numberarray.besttimetosellstock
+DP/HouseRobber.java
+ DP.HouseRobber
 String/WordFrequency.java
  String.WordFrequency
 Numberarray/Threesum.java
  Numberarray.Threesum
+Numberarray/MinSumofFourDigits.java
+ Numberarray.MinSumofFourDigits
 Graph/UndirectedEdge.java
  Graph.UndirectedEdge
 Linkedlist/dNode.java
@@ -71,10 +84,18 @@ Recursion/SumofDigits.java
  Recursion.SumofDigits
 Sorting/Selectionsort.java
  Sorting.Selectionsort
+String/WordBreakii.java
+ String.WordBreakii
+Graph/Routebtwnodes.java
+ Graph.Routebtwnodes
 Numberarray/NumberOfPairsInterchangeableRectangles.java
  Numberarray.NumberOfPairsInterchangeableRectangles
+Numberarray/KidswithGNC.java
+ Numberarray.KidswithGNC
 DC/FibonacciDC.java
  DC.FibonacciDC
+String/LongestPalindromicSubstring.java
+ String.LongestPalindromicSubstring
 gradleproject1/maxofthreeintegr.java
  gradleproject1.maxofthreeintegr
 others/NumberofGoodPairs.java
@@ -93,6 +114,8 @@ AVLtree/BinaryTreeA.java
  AVLtree.BinaryTreeA
 DC/DcMain.java
  DC.DcMain
+Numberarray/MedianOfTwoSortedArrays.java
+ Numberarray.MedianOfTwoSortedArrays
 Sorting/StringSort.java
  Sorting.StringSort
 AVLtree/BinaryTreeLL.java
@@ -166,6 +189,9 @@ String/StringCo.java
  String.StringCo
 AVLtree/MainTree.java
  AVLtree.MainTree
+Graph/RbnGraph.java
+ Graph.RbnGraph
+ Graph.RbnGraph$State
 Sorting/Insertionsort.java
  Sorting.Insertionsort
 Sorting/Bubblesort.java
@@ -178,6 +204,8 @@ Sorting/SortMain.java
  Sorting.SortMain
 others/mulipleoffour.java
  others.mulipleoffour
+Graph/RbnGraphNode.java
+ Graph.RbnGraphNode
 Numberarray/ConcatenationofArray.java
  Numberarray.ConcatenationofArray
 String/Minimuwindowsubstring.java
@@ -220,14 +248,7 @@ DP/NumberFactor.java
  DP.NumberFactor
 DC/HouseRobber.java
  DC.HouseRobber
-Graph/PrimAlgo.java
- Graph.PrimAlgo
-Graph/GraphMain.java
- Graph.GraphMain
-Graph/Routebtwnodes.java
- Graph.Routebtwnodes
-Graph/RbnGraphNode.java
- Graph.RbnGraphNode
-Graph/RbnGraph.java
- Graph.RbnGraph
- Graph.RbnGraph$State
+Recursion/DecimalToBinary.java
+ Recursion.DecimalToBinary
+String/RegulrarExpMatch.java
+ String.RegulrarExpMatch
